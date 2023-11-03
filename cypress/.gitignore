@@ -1,0 +1,7 @@
+node_modules/
+mochawesome-report/
+cypress/videos/
+cypress/screenshots/
+cypress/fixtures/
+cypress/results/
+.DS_Store
